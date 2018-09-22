@@ -1,0 +1,16 @@
+[[source]]
+name = "pypi"
+verify_ssl = true
+url = "https://pypi.org/simple"
+
+[packages]
+google-api-python-client = "*"
+"oauth2client" = "*"
+requests = "*"
+"bs4" = "*"
+pyjsparser = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.5"
