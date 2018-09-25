@@ -9,8 +9,10 @@ google-api-python-client = "*"
 requests = "*"
 "bs4" = "*"
 pyjsparser = "*"
+pytz = "*"
 
 [dev-packages]
+pylint = "*"
 
 [requires]
 python_version = "3.5"
